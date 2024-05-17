@@ -1,0 +1,38 @@
+
+
+.img-back {
+  background-image: url(../img/backgound.png);
+  background-size: cover;
+  padding-top: 10%;
+  padding-bottom: 5%;
+}
+
+.img-cv {
+  width: 25%;;
+}
+
+.espacio {
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+
+* Mis trabajos */
+
+#Mis-trabajos .image-top {
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+/* Contacto */
+
+#Contacto form label {
+  font-weight: 700;
+  color: #373a3c;
+}
+
+
+
